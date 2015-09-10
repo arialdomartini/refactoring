@@ -1,0 +1,11 @@
+.gradle/**
+out/**
+
+# Intellij Idea
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/**
