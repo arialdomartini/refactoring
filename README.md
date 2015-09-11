@@ -16,3 +16,9 @@ On OS X and Linux run
 On Windows, run
 
     gradlew build
+
+
+## Techniques
+
+* [Sprout Method](/src/main/java/it/bebox/refactoring/sproutmethod)
+* [Sprout Class](/src/main/java/it/bebox/refactoring/sproutclass)
